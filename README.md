@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Barış Sakızlı
+# 👋 Hi, I'm Barış Sakızlı - </bsakizli> - TOSPI.tech
 
 ### System & Software Specialist | Solution Architect | AI-Assisted Developer
 
